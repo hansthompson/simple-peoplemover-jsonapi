@@ -1,5 +1,5 @@
-load("fullfilepathto/stops.rda")
-api_directory <- "full/path"
+load("/home/hans/simple-peoplemover-jsonapi/stops.rda")
+write_files_to <- "/home/hans/"
 
 library(dplyr)
 library(XML)

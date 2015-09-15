@@ -1,4 +1,4 @@
-load("fullpath/people_mover_realtime.rda")
+load("/home/hans/people_mover_realtime.rda")
 
 #' @get /delays
 delays_endpoint_function <- function(all) {
